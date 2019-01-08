@@ -1,0 +1,29 @@
+# site settings
+title: Lorenzana Web Designs
+subtitle:
+email: lorenzanamarcus@gmail.com
+description: Beautiful and responsive websites designed with passion and precision.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://lorenzanadesigns.com # the base hostname & protocol for your site
+author:
+city: San Antonio
+state: TX
+zip_code: 78232
+country: United States of America
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+linkedin_url: https://www.linkedin.com/in/lorenzanamarcus/
+thumbtack_url: https://www.thumbtack.com/biz/marcus-lorenzana
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
