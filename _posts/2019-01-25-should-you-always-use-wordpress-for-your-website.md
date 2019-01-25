@@ -7,6 +7,8 @@ date: 2019-01-25 16:19:55 +0000
 ---
 ### Should You Always Use Wordpress For Your Website?
 
+![](/uploads/wordpress-logo-stacked-rgb.png)
+
 Chances are, if you've ever looked to get a website done for your business or personal use, a lot of professionals recommend or work exclusively within the WordPress CMS. You might not even understand why WordPress is recommended so heavily. Here I'm going to do my best to try and clear things up as well as help you make a more educated decision on whether or not WordPress really IS the solution you are looking for or if there is a more optimal solution available to you.
 
 **Why It Is Always Recommended So Heavily:**
@@ -32,10 +34,10 @@ For instance, if your business doesn't require really heavy need for blogging or
 * You have more specific requirements on how you want the website to look
   * This is the most important. With WordPress you are a bit restricted on how you design your page when using PageBuilders or the default options. You don't have easy direct access to the HTML and often have to design the way they want you to design.
 * You want your website to be highly optimized and fast
-  * WordPress is a VERY heavy CMS that requires a lot of plugins and unnecessary files that probably you'll never use. This can slow down your page and also might be overly confusing to someone who just wants to create a new post every now and then.
+  * WordPress is a VERY heavy CMS that requires a lot of plugins and unnecessary files that probably you'll never use. This can slow down your page and also might be overly confusing to someone who just wants to create a new post every now and then.![](/uploads/5f7d0bfe502132f0dc51828dc38471442759c346c71615398566b302488c2226.jpg)
 * The website is an application
   * Very important as well. WordPress is not meant for building web applications, (except maybe eCommerce stores). It is possible but is not really meant for it and it will not perform nearly as well as a completely custom solution (writing your own HTML, CSS, JavaScript from the ground up). WordPress is primarily used to manage content. But even then, there are solutions out there where if you just need to create posts, offer the same ability with the performance of a custom solution.
 * The website is primarily just a landing page for information about you or your business. You only need to be able to create new posts.
-  * Another important point. WordPress is a bit overkill if you all you want to do is having a nice looking website that displays information to the user, such as a business landing page, restaurant, salon, etc.
+  * Another important point. WordPress is a bit overkill if you all you want to do is having a nice looking website that displays information to the user, such as a business landing page, restaurant, salon, etc. For instance, this website you are on right now is built without WordPress but instead custom.
 
-There are a ton of other things to consider of course, but this is a short summary of how to decide and should help get you started. If all of this sounds very confusing, that is completely fine. If you work with a true professional, they will help you make the decision. And if you are ever in need of a website or would just like to learn more, feel free to contact us on our main page at the bottom contact area. We are more than capable of taking care of your web design needs and let you focus on what you care about most, your business.
+There are a ton of other things to consider of course, but this is a short summary of how to decide and should help get you started. If all of this sounds very confusing, that is completely fine. If you work with a true professional, they will help you make the decision. And if you are ever in need of a website or would just like to learn more, feel free to contact us on our main page at the bottom contact area. We are more than capable of taking care of your web design needs and let you focus on what you care about most, your business. Whether you decide WordPress or a custom website, we can take care of it for you and in the end you will get a great website.
