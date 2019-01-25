@@ -1,0 +1,14 @@
+---
+label: Blog Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: file
+  name: featured_image
+  label: Featured Image
+- type: textarea
+  name: content
+  label: Content
