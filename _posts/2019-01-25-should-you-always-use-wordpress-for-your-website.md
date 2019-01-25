@@ -7,7 +7,7 @@ date: 2019-01-25 16:19:55 +0000
 ---
 ### Should You Always Use Wordpress For Your Website?
 
-![](/uploads/wordpress-logo-stacked-rgb.png)
+![](/uploads/wordpress-logo-680x400.png)
 
 Chances are, if you've ever looked to get a website done for your business or personal use, a lot of professionals recommend or work exclusively within the WordPress CMS. You might not even understand why WordPress is recommended so heavily. Here I'm going to do my best to try and clear things up as well as help you make a more educated decision on whether or not WordPress really IS the solution you are looking for or if there is a more optimal solution available to you.
 
