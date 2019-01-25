@@ -12,3 +12,5 @@ fields:
 - type: textarea
   name: content
   label: Content
+pages:
+- _posts/should-you-always-use-wordpress-for-your-website.md
