@@ -10,6 +10,7 @@ city: San Antonio
 state: TX
 zip_code: 78232
 country: United States of America
+phone: 210-286-7939
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
