@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Website Design</h2>
 		</header>
-		<p>Need a website? We'll get it done for you. We'll walk you through every step of the way and make sure you're getting what you're asking for. We use the latest technologies in design including Wordpress, SquareSpace, and static website generators such as Jekyll (what this website is built on). The best part? Our prices are competitive starting at $650 while still maintaining the type of design, layout and presentation you'd expect for over $1000.</p>
+		<p>Need a website? We'll get it done for you. We'll walk you through every step of the way and make sure you're getting what you're asking for. We use the latest technologies in design including Wordpress as well as custom built solutions.</p>
 	</div>
 </section>
 
@@ -30,10 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Graphic Design</h3>
 				</header>
-				<p>Need a new logo, brochure, flyer, or just any type of graphic design art in general? We can provide professional high quality designs that will grab the attention of your target audience using the the Adobe CC suite.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>For all Graphic Design inquiries I wholeheartedly recommend reaching out to Valeria Romero to get yourself modern and beautifully designed logos, flyers, business card designs, stickers, as well as other Graphic Design mediums. You can find her website here: <a href="https://www.valeriasdesigns.com">https://www.valeriasdesigns.com</a> and email her at: valsaldivar94@gmail.com</p>
 			</div>
 		</div>
 	</section>
@@ -46,7 +43,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Search Engine Optimization</h3>
 				</header>
-				<p>It's important to have a beautiful eye popping website, but what's the point if nobody can see it? This is where Search Engine Optimization (SEO) comes into play. We'll make sure you're website is indexed on Google and using a secure protocol, strategically implemented tags, as well as Google Analytics to track it's viewership over time.</p>
+				<p>It's important to have a beautiful eye popping website, but what's the point if nobody can see it? This is where Search Engine Optimization (SEO) comes into play. We'll make sure you're website is indexed on Google, using a secure HTTPS protocol, strategically implemented tags, SEO optimized pages, Google Sitemap, as well as Google Analytics to track it's viewership over time.</p>
 				<ul class="actions">
 					<li><a href="elements.html" class="button">Learn more</a></li>
 				</ul>
@@ -72,7 +69,7 @@ nav-menu: true
 </section>
 
 <!-- Three -->
-<section id="three">
+<!-- <section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Video Editing</h2>
@@ -82,6 +79,6 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section> -->
 
 </div>
