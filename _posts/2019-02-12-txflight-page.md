@@ -16,7 +16,7 @@ Down below you can see a glimpse of the homepage. Here we have a large banner im
 with Under Armour. Underneath that they wanted their social media links right at the top so it's easy to find and a click/tap away.
 And of course we have a image gallery carousel to show off photos of the team and activities involved.
 
-<img src="assets/images/txflight_port_1.png" alt="" />
+<img src="assets/images/blank.png" data-echo="/assets/images/txflight_port_1.png" alt="" />
 
 In this middle section if we scroll down further we quickly get an idea of what the team is about and their philosophy.
 We also have a grouping of "cards" that was a design request that I was happy to fulfill. They wanted a badge to show their
@@ -24,13 +24,13 @@ association with Under Armour and a "Flight TV" section of the latest news behin
 fun and interesting request that was cool to implement was the sidebar twitter feed so that their audience can see the latest news
 from their twitter page.
 
-<img src="assets/images/txflight_port_2.png" alt="" />
+<img src="assets/images/blank.png" data-echo="/assets/images/txflight_port_2.png" alt="" />
 
 On another page under the "Teams" menu link, we are brought to a page of the team roster, which was a very important requirement.
 Since the roster would need to be updated, I provided a means to allow them to quickly edit/delete/add to the roster using a table
 plugin in WordPress.
 
-<img src="assets/images/txflight_port_3.png" alt="" />
+<img src="assets/images/blank.png" data-echo="/assets/images/txflight_port_3.png" alt="" />
 
 This is just a glimpse of what you can find here on the website. If you'd like to check the whole page out, feel free
 to visit it! 
