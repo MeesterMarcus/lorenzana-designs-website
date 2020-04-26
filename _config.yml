@@ -12,9 +12,6 @@ zip_code: 78232
 country: United States of America
 phone: 210-286-7939
 
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
 
 # social settings
 linkedin_url: https://www.linkedin.com/in/lorenzanamarcus/

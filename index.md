@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Home
 landing-title: 'Lorenzana Web Design'
 description: ''
