@@ -113,9 +113,4 @@
     duration: 800,
     easing: "ease-in-out"
   });
-
-    $( "#contactSubmit" ).click(function() {
-        alert( "Handler for .click() called." );
-    });
-
 })(jQuery);
