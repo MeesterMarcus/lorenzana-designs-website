@@ -113,4 +113,10 @@
     duration: 800,
     easing: "ease-in-out"
   });
+
+    $( "#contactSubmit" ).click(function() {
+        console.log('submitted');
+      ga('send', 'event', 'contact', 'click');
+    });
+
 })(jQuery);
