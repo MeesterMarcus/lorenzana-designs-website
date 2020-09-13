@@ -116,7 +116,7 @@
 
     $( "#contactSubmit" ).click(function() {
         console.log('submitted');
-      ga('send', 'event', 'contact', 'click');
+      ga('send', 'event', 'contact', 'click', 'contact-form');
     });
 
 })(jQuery);
