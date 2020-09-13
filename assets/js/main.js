@@ -114,9 +114,4 @@
     easing: "ease-in-out"
   });
 
-    $( "#contactSubmit" ).click(function() {
-        console.log('submitted');
-      gtag('event', 'contact', {'method': 'Google'});
-    });
-
 })(jQuery);
