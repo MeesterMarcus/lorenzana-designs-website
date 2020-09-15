@@ -9,6 +9,36 @@
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
+<!-- semrush siteaudit widget -->
+<div class="modal hide fade" id="sem-dialog">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content" style="width:auto;">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                </button>
+            </div>
+            <div>
+                <div id="ssa-widget"></div>
+                <script type="text/javascript">
+                    (function() {
+                        var p = "https://www.semrush.com/leadgen/static/js/widget.min.js";
+                        var d = document, s = d.createElement("script");
+                        s.src = p + "?v=" + Math.random();
+                        (d.head || d.body).appendChild(s);
+                        s.onload = function() {
+                            new SEMRUSH.SiteauditWidget({
+                                widgetApiKey: "5f5fc6fbf85646717d9b37f2"
+                            });
+                        }
+                    })();
+                </script>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /semrush siteaudit widget -->
+
 <!-- ======= Header ======= -->
 <header id="header">
     <div class="container d-flex">
