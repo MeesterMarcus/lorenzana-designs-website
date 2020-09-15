@@ -7,6 +7,13 @@
 !(function($) {
   "use strict";
 
+  $(document).ready(function(){
+    setTimeout(function(){
+      $('#sem-dialog').modal('show');
+      }, 5000);
+  });
+
+  // Click to trigger
   $( "#auditButton" ).click(function() {
     $('#sem-dialog').modal('show');
   });
