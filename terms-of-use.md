@@ -1,0 +1,4 @@
+---
+layout: terms-of-use
+---
+
