@@ -9,7 +9,7 @@ title: Blog
     <div id="posts">
         <div class="blog-postcontent">
 
-            {% for post in paginator.posts %}
+            {% for post in site.posts %}
 
             {% capture day %}{{ post.date | date: '%m%d%Y' }}{% endcapture %}
             {% capture nday %}{{ post.next.date | date: '%m%d%Y' }}{% endcapture %}
@@ -33,19 +33,19 @@ title: Blog
             </div>
             {% endfor %}
         </div>
-        <div class="pagination">
-            {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path }}" class="previous">&larr; Previous</a>
-            {% else %}
-            <span class="previous">&larr; Previous</span>
-            {% endif %}
-            <span class="page_number "> | Page: {{ paginator.page }} of {{ paginator.total_pages }} |</span>
-            {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path }}" class="next">Next &rarr;</a>
-            {% else %}
-            <span class="next ">Next &rarr;</span>
-            {% endif %}
-            <p><a href="/blog/archive.html" title="an archive of all posts">Archive of all posts</a></p>
-        </div>
+        <!--<div class="pagination">-->
+        <!--    {% if paginator.previous_page %}-->
+        <!--    <a href="{{ paginator.previous_page_path }}" class="previous">&larr; Previous</a>-->
+        <!--    {% else %}-->
+        <!--    <span class="previous">&larr; Previous</span>-->
+        <!--    {% endif %}-->
+        <!--    <span class="page_number "> | Page: {{ paginator.page }} of {{ paginator.total_pages }} |</span>-->
+        <!--    {% if paginator.next_page %}-->
+        <!--    <a href="{{ paginator.next_page_path }}" class="next">Next &rarr;</a>-->
+        <!--    {% else %}-->
+        <!--    <span class="next ">Next &rarr;</span>-->
+        <!--    {% endif %}-->
+        <!--    <p><a href="/blog/archive.html" title="an archive of all posts">Archive of all posts</a></p>-->
+        <!--</div>-->
     </div>
 </div>
