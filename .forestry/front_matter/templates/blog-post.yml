@@ -17,3 +17,5 @@ fields:
 - type: boolean
   name: comments
   label: comments
+pages:
+- _posts/how-to-debug-your-website-or-web-application-without-leaving-the-browser.md
