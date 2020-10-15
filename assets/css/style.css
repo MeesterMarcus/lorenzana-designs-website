@@ -533,7 +533,7 @@ section {
 }
 
 .about .content .icon-box i {
-  font-size: 48px;
+  font-size: 32px;
   float: left;
   color: #fdc134;
 }
@@ -545,7 +545,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/provide.jpg") center center no-repeat;
+  background: url("../img/provide.webp") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
