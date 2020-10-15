@@ -1,8 +1,7 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll'
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-group :jekyll_plugins do
-  gem 'jekyll-seo-tag'
-  gem 'jekyll-paginate'
-end
+gem "jekyll"
+gem "jekyll-seo-tag"
+gem "jekyll-paginate"
