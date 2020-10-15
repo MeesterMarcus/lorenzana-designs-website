@@ -1409,3 +1409,10 @@ section {
 .process .card:hover .card-body .card-title a {
   color: #fdc134;
 }
+
+/*Post*/
+
+.post-content img {
+  max-width: 100%;
+  height: auto;
+}
