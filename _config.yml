@@ -14,6 +14,8 @@ country: United States of America
 phone: 210-286-7939
 
 permalink: "/blog/:categories/:year/:month/:day/:title.html"
+paginate: 5
+paginate_path: "/blog/page:num/"
 
 # social settings
 linkedin_url: https://www.linkedin.com/in/lorenzanamarcus/
@@ -27,3 +29,4 @@ sass:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-paginate
