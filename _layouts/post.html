@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head-post.html %}
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58GGZHM"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- ======= Header ======= -->
+<header class="header">
+    <div class="container d-flex align-items-center">
+        <div class="logo mr-auto">
+            <div class="text-light"><a href="/"><span style="color:white;">Lorenzana Web Design</span><span>.</span></a>
+            </div>
+        </div>
+        {% include navbar.html %}
+    </div>
+</header><!-- End Header -->
+
+<!-- ======= Hero Section ======= -->
+
+
+<main id="main">
+    <div class="container">
+        <article class="post" style="margin-bottom: 15px; margin-top: 15px; max-width: 700px;">
+            {% if page.image %}
+            <div class="article-image">
+                <div class="post-image-image">
+                    Article Image
+                </div>
+                <div class="post-meta">
+                    <h1 class="post-title">{{ page.title }}</h1>
+                    <div class="cf post-meta-text">
+                        <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{
+                            site.author }}</h4>
+                        on
+                        <time datetime="{{ page.date | date  }}">{{ page.date | date_to_string }}</time>
+                    </div>
+                    <div style="text-align:center">
+                        <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
+                    </div>
+                </div>
+            </div>
+            {% else %}
+            <div class="noarticleimage" style="margin-bottom:15px;">
+                <div class="post-meta">
+                    <h1 class="post-title">{{ page.title }}</h1>
+                    <div class="cf post-meta-text">
+                        <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{
+                            page.author }}</h4>
+                        <span><a href="/blog/" class="blog-back-link">&larr; back to the blog</a> |
+                            post written on
+                        </span>
+                        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+            <div class="post-content">
+                <a name="topofpage"></a>
+                {{content}}
+            </div>
+            <div>
+                <div class="isLeft">
+                    <h5 class="index-headline featured"><span>Written by: <h4>{{ site.author }}</h4></span></h5>
+                </div>
+                {{post}}
+            </div>
+        </article>
+    </div>
+
+</main><!-- End #main -->
+
+{% include footer.html %}
+
+</body>
+
+</html>

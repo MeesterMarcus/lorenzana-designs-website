@@ -59,7 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
-#header {
+.header {
   height: 80px;
   transition: all 0.5s;
   z-index: 997;
@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #213b52;
 }
 
-#header .logo h1 {
+.header .logo {
   font-size: 24px;
   margin: 0;
   padding: 10px 0;
@@ -79,16 +79,16 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 
-#header .logo h1 a, #header .logo h1 a:hover {
+.header .logo h1 a, #header .logo h1 a:hover {
   color: #fff;
   text-decoration: none;
 }
 
-#header .logo h1 a span, #header .logo h1 a:hover span {
+.header .logo h1 a span, #header .logo h1 a:hover span {
   color: #fdc134;
 }
 
-#header .logo img {
+.header .logo img {
   padding: 0;
   margin: 0;
   max-height: 40px;
@@ -181,8 +181,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down > a:after {
-  content: "\ea99";
-  font-family: IcoFont;
   padding-left: 5px;
 }
 
@@ -535,7 +533,7 @@ section {
 }
 
 .about .content .icon-box i {
-  font-size: 48px;
+  font-size: 32px;
   float: left;
   color: #fdc134;
 }
@@ -547,7 +545,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/provide.jpg") center center no-repeat;
+  background: url("../img/provide.webp") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
@@ -1331,4 +1329,90 @@ section {
 
 .checked {
   color: goldenrod;
+}
+
+
+/* Process */
+/*--------------------------------------------------------------
+# Services
+--------------------------------------------------------------*/
+.process {
+  padding-bottom: 40px;
+}
+
+.process .card {
+  border: 0;
+  padding: 0 30px;
+  margin-bottom: 60px;
+  position: relative;
+  background: transparent;
+}
+
+.process .card-img {
+  width: calc(100% + 60px);
+  margin-left: -30px;
+  overflow: hidden;
+  z-index: 9;
+  border-radius: 0;
+}
+
+.process .card-img img {
+  max-width: 100%;
+  transition: all 0.3s ease-in-out;
+}
+
+.process .card-body {
+  z-index: 10;
+  background: #fff;
+  border-top: 4px solid #fff;
+  padding: 30px;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  margin-top: -60px;
+  transition: 0.3s;
+}
+
+.process .card-title {
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.process .card-title a {
+  color: #213b52;
+  transition: 0.3s;
+}
+
+.process .card-text {
+  color: #5e5e5e;
+}
+
+.process .read-more a {
+  color: #777777;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 12px;
+  transition: 0.3s;
+}
+
+.process .read-more a:hover {
+  color: #fdc134;
+}
+
+.process .card:hover img {
+  transform: scale(1.1);
+}
+
+.process .card:hover .card-body {
+  border-color: #fdc134;
+}
+
+.process .card:hover .card-body .card-title a {
+  color: #fdc134;
+}
+
+/*Post*/
+
+.post-content img {
+  max-width: 100%;
+  height: auto;
 }
