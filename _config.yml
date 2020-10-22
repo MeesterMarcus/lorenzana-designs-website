@@ -13,7 +13,7 @@ zip_code: 78232
 country: United States of America
 phone: 210-286-7939
 
-permalink: "/blog/:categories/:year/:month/:day/:title.html"
+permalink: "/blog/:categories/:year/:month/:day/:title"
 paginate: 5
 paginate_path: "/blog/page:num/"
 
