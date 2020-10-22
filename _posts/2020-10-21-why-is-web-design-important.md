@@ -6,7 +6,7 @@ categories: webdesign
 comments: false
 
 ---
-A common question I get asked a lot by a number of people is:
+A common question I get asked by a large number of people is:
 
 **Why is web design important?**
 
