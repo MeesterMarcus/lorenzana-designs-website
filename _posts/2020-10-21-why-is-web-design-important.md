@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why is Web Design important?
-date: 2020-10-21 05:00:00 +0000
+date: 2020-10-21T05:00:00.000+00:00
 categories: webdesign
 comments: false
 
@@ -34,4 +34,4 @@ Having a website also gives you the chance to connect with others, whether that 
 
 ### Summary
 
-We just scratched the surface with how important it could be to have a website for your business. And why it's important to have it designed by a professional! To learn more about web design, SEO, or to inquire about our services, browse our website and blog. Thanks for reading!
+We just scratched the surface with how important it could be to have a website for your business. And why it's important to have it designed by a professional! To learn more about web design, SEO, or to inquire about our services, browse our website and blog. Thanks for reading! Learn more about our [San Antonio development services](https://www.lorenzanadesigns.com/blog/webdesign/2020/10/15/san-antonio-development-services). 
