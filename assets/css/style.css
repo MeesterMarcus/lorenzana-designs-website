@@ -1342,8 +1342,9 @@ section {
 
 .process .card {
   border: 0;
-  padding: 0 30px;
+  /*padding: 0 30px;*/
   margin-bottom: 60px;
+  margin-top: 30px;
   position: relative;
   background: transparent;
 }
