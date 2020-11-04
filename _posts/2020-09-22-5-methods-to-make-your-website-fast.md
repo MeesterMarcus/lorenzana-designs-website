@@ -2,7 +2,8 @@
 layout: post
 title: Top 5 Methods To Make Your Website FAST
 date: 2020-09-22T09:56:39.000+00:00
-categories: []
+categories:
+- webdesign
 comments: true
 
 ---
