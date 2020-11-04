@@ -24,7 +24,7 @@ This is where WordPress shines. Since its inception, WordPress has always been o
 
 ## Manage Your Assets Easier
 
-Another excellent reason to choose WordPress is that it has a very strong a proven Content Management System. A Content Management System, or CMS, allows you too have better control and organization of your assets (pictures, videos, etc.). WordPress has been around for 17 years and since its inception has had a CMS and Blog functionality built-in. That is a lot of time to perfect its system and make a productive environment for the client and developer.
+Another excellent reason to choose WordPress is that it has a very strong and proven Content Management System. A Content Management System, or CMS, allows you to have better control and organization of your assets (pictures, videos, etc.). WordPress has been around for 17 years and since its inception has had a CMS and Blog functionality built-in. That is a lot of time to perfect its system and make a productive environment for the client and developer.
 
 ![](/uploads/1946965-1.jpg)
 
@@ -34,6 +34,6 @@ WordPress is built to take advantage of many SEO related optimizations without e
 
 ## Summary
 
-These are just some of the more common reasons why WordPress could be a great fit your company's website. If you require a solid content management system or blog WordPress is a no brainer. However, there are reasons why it may not be right for you either. At the end of the day, it depends on your company's specific needs. If you are curious on the reasons why it may NOT be right for you, read our other blog post here:
+These are just some of the more common reasons why WordPress could be a great fit your company's website. If you require a solid content management system or blog, WordPress is a no brainer. However, there are reasons why it may not be right for you too. At the end of the day, it depends on your company's specific needs. If you are curious on the reasons why it may NOT be right for you, read our other blog post here:
 
 [Top 4 Reasons Why WordPress May Not Be Right For You](https://www.lorenzanadesigns.com/blog/webdesign/2020/09/15/top-4-reasons-why-wordpress-may-not-be-right-for-you.html)
