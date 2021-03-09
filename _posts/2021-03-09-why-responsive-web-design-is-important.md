@@ -6,7 +6,6 @@ categories: webdesign
 comments: false
 
 ---
-  
 If you are learning web design or are merely looking to get a new website, you may often come across the term "responsive web design". It is coupled with the fact that it is essential and a key requirement in good website design. For starters, here is the definition: "Responsive web design is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes." Now, in layman terms, what does that mean? Let's go over it together.
 
 ## Mobile Friendly
@@ -29,7 +28,6 @@ How many times have you navigated to a website on your phone, and you couldn't g
 6. The layout of the rows and columns fit correctly on the mobile device but laid out incorrectly.
 7. Certain elements bleed past the screen, and you must scroll (slide finger) to view additional text/elements.
 
-  
 ![Responsive web design | Caktus Group](https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/responsive-web-design-caktus.gif)
 
 Finally, here are some examples of good responsive design, in no particular order:
@@ -41,3 +39,5 @@ Finally, here are some examples of good responsive design, in no particular orde
 * The layout of rows and columns is responsive and wraps when necessary. For example, a row with six columns on desktop is scaled to two columns and multiple rows on mobile.
 * Form input elements are adjusted accordingly and presented nicely on mobile devices.
 * Website scrolls via touch smoothly without hiccups or getting "stuck".
+
+I hope this article helped explain the importance of responsive design and how it can affect your business! If you are curious about any other of our topics, please visit our [blog](lorenzanadesigns/blog/). 
