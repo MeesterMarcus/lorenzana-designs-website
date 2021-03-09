@@ -40,4 +40,4 @@ Finally, here are some examples of good responsive design, in no particular orde
 * Form input elements are adjusted accordingly and presented nicely on mobile devices.
 * Website scrolls via touch smoothly without hiccups or getting "stuck".
 
-I hope this article helped explain the importance of responsive design and how it can affect your business! If you are curious about any other of our topics, please visit our [blog](lorenzanadesigns/blog/). 
+I hope this article helped explain the importance of responsive design and how it can affect your business! If you are curious about any other of our topics, please visit our [blog](lorenzanadesigns.com/blog/). 
