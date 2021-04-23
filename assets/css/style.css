@@ -426,6 +426,12 @@ section {
   overflow: hidden;
 }
 
+@media (max-width: 1366px) {
+  section {
+    padding: 0;
+  }
+}
+
 .section-bg {
   background: linear-gradient(180deg, #f2f6fa 0%, #fff 100%);
 }
