@@ -710,6 +710,10 @@ section {
   overflow: hidden;
   border-radius: 8px;
   z-index: 1;
+  border-color: #40ADE0;
+  border-style: solid;
+  border-width: 1px;
+
 }
 
 .portfolio .portfolio-wrap::before {
