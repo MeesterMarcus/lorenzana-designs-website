@@ -125,9 +125,12 @@
     $(document).ready(function () {
         $("#testimonial").owlCarousel({
             navigation: false, // Show next and prev buttons
-            slideSpeed: 300,
-            paginationSpeed: 400,
-            singleItem: true
+            slideSpeed: 800,
+            paginationSpeed: 800,
+            singleItem: true,
+            autoPlay:true,
+            autoplayTimeout:3000,
+            autoplayHoverPause:true
         });
 
     });
