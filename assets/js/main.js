@@ -129,7 +129,7 @@
             paginationSpeed: 800,
             singleItem: true,
             autoPlay:true,
-            autoplayTimeout:3000,
+            autoplayTimeout:6000,
             autoplayHoverPause:true
         });
 
